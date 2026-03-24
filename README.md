@@ -2,6 +2,10 @@
 <h3 align="center">🚀 Full Stack Developer | Python & PHP Expert | Cyber Security Graduate | Based in London, UK</h3>
 
 <p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480" alt="coding gif" />
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=snrahman&label=Profile%20views&color=0e75b6&style=flat" alt="snrahman" />
   <img src="https://img.shields.io/badge/MSc-Cyber%20Security-blueviolet?style=flat" alt="MSc Cyber Security" />
   <img src="https://img.shields.io/badge/Experience-4%2B%20Years-brightgreen?style=flat" alt="4+ Years Experience" />
@@ -12,11 +16,11 @@
 ### 👨‍💻 About Me
 
 - 🎓 **MSc Cyber Security** graduate from Staffordshire University, London
-- 💼 4+ years of expertise in **Python, PHP, Laravel, Django** and modern full-stack development
+- 💼 5+ years of expertise in **Python, PHP, Laravel, Django** and modern full-stack development
 - 🔭 Currently working on an **Automated Crypto Trading Bot Suite** using Python, Flask, Laravel & AWS EC2
 - 🌱 Skilled in building **secure, scalable applications** across e-commerce, API-driven systems, automation tools, and SaaS platforms
 - 💡 Proficient in **RESTful APIs**, database design, and payment integrations (Stripe, PayPal, JazzCash, Clover)
-- 📫 Reach me at **shahzadanouman@hotmail.com**
+- 📫 Reach me at **<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="94e7fcf5fceef5f0f5fafbe1f9f5fad4fcfbe0f9f5fdf8baf7fbf9">[email&#160;protected]</a>**
 
 ---
 
@@ -35,7 +39,7 @@
 
 ### 💼 Work Experience
 
-🏫 **Python Instructor** — Azad Chaiwala Institute *(Jul 2023 – Oct 2024)*
+🏫 **Python Developer/Instructor** — Azad Chaiwala Institute *(Jul 2023 – Oct 2024)*
 > Delivered Python & web development instruction, designed Django/Flask assessments, and mentored learners on RESTful API development and Git/GitHub workflows.
 
 🛒 **Software Developer** — Tossdown Inc. *(Sep 2022 – Jul 2023)*
@@ -116,10 +120,4 @@
 | Degree | Institution | Year |
 |--------|-------------|------|
 | 🔐 MSc Cyber Security | Staffordshire University, London, UK | 2024 – 2025 |
-| 💻 BSc Computer Science | University of Sargodha, Pakistan | 2014 – 2018 |
-
----
-
-<p align="center">
-  <i>💬 Open to collaborations, freelance projects, and full-time opportunities in the UK!</i>
-</p>
+| 💻 BSc Computer Science | University of Sargodha, Pakistan | 2014 – 2018
