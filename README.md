@@ -1,123 +1,234 @@
-<h1 align="center">Hi There 👋, I'm Shahzada Nouman U Rahman</h1>
-<h3 align="center">🚀 Full Stack Developer | Python & PHP Expert | Cyber Security Graduate | Based in London, UK</h3>
-
+<h1 align="center">Hi 👋 I'm Shahzada Nouman U Rahman</h1>
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480" alt="coding gif" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&color=00C2FF&center=true&vCenter=true&width=750&lines=Software+Engineer;Full+Stack+Developer;Python+%7C+PHP+%7C+Laravel+Developer;Cyber+Security+Graduate;Building+Secure+%26+Scalable+Web+Apps" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=snrahman&label=Profile%20views&color=0e75b6&style=flat" alt="snrahman" />
-  <img src="https://img.shields.io/badge/MSc-Cyber%20Security-blueviolet?style=flat" alt="MSc Cyber Security" />
-  <img src="https://img.shields.io/badge/Experience-4%2B%20Years-brightgreen?style=flat" alt="4+ Years Experience" />
-</p>
+<a href="https://linkedin.com/in/shahzada-nouman">
+<img src="https://img.shields.io/badge/LinkedIn-Shahzada%20Nouman-blue?style=for-the-badge&logo=linkedin">
+</a>
 
----
+<a href="mailto:shahzadanouman@hotmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=microsoftoutlook">
+</a>
 
-### 👨‍💻 About Me
+<a href="https://github.com/snrahman">
+<img src="https://img.shields.io/badge/GitHub-snrahman-black?style=for-the-badge&logo=github">
+</a>
 
-- 🎓 **MSc Cyber Security** graduate from Staffordshire University, London
-- 💼 5+ years of expertise in **Python, PHP, Laravel, Django** and modern full-stack development
-- 🔭 Currently working on an **Automated Crypto Trading Bot Suite** using Python, Flask, Laravel & AWS EC2
-- 🌱 Skilled in building **secure, scalable applications** across e-commerce, API-driven systems, automation tools, and SaaS platforms
-- 💡 Proficient in **RESTful APIs**, database design, and payment integrations (Stripe, PayPal, JazzCash, Clover)
-- 📫 Reach me at **<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="94e7fcf5fceef5f0f5fafbe1f9f5fad4fcfbe0f9f5fdf8baf7fbf9">[email&#160;protected]</a>**
-
----
-
-### 🔗 Connect with Me
-
-<p align="left">
-<a href="https://twitter.com/noumanrahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="noumanrahman" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shahzada-nouman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shahzada-nouman" height="30" width="40" /></a>
-<a href="https://fb.com/shahzada.nouman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shahzada.nouman" height="30" width="40" /></a>
-<a href="https://instagram.com/shahzada_nouman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shahzada_nouman" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/shahzadanoumanuk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shahzadanoumanuk" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/shahzadanouman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shahzadanouman" height="30" width="40" /></a>
-</p>
-
----
-
-### 💼 Work Experience
-
-🏫 **Python Developer/Instructor** — Azad Chaiwala Institute *(Jul 2023 – Oct 2024)*
-> Delivered Python & web development instruction, designed Django/Flask assessments, and mentored learners on RESTful API development and Git/GitHub workflows.
-
-🛒 **Software Developer** — Tossdown Inc. *(Sep 2022 – Jul 2023)*
-> Built streamlined checkout systems in PHP/JavaScript, integrated payment gateways (JazzCash, Clover) and logistics APIs (eShipper, DoorDash), and implemented Google Analytics reporting.
-
-⚙️ **Laravel Developer** — Einnovention Software Solution *(Jan 2020 – Sep 2022)*
-> Built CMS, single-page, and e-commerce platforms with Stripe/PayPal integration, modular MVC architecture, and CI/CD-driven delivery via Git/GitHub.
-
----
-
-### 🚀 Featured Project — Automated Crypto Trading Bot Suite
-
-> **Python · Flask · Laravel · AWS EC2**
-
-- 📈 Engineered automated crypto trading systems using **RSI, EMA, and Supertrend** technical indicators
-- 🖥️ Built both **CLI tools** and **full web-based trading platforms** with Flask and Laravel
-- ☁️ Deployed high-performance bots on **AWS EC2** for rapid, reliable execution
-- 🤖 Automated decision workflows to improve efficiency in fast-moving crypto markets
-
----
-
-### 🛠️ Languages and Tools
-
-<p align="left">
-<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-<a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-<a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/></a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/></a>
-<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/></a>
-<a href="https://codeigniter.com" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/></a>
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
-<a href="https://sass-lang.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/></a>
-<a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></a>
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a>
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
-<a href="https://www.selenium.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
-<a href="https://symfony.com" target="_blank" rel="noreferrer"><img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/></a>
-<a href="https://www.oracle.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/></a>
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=snrahman&show_icons=true&theme=radical&hide_border=true&locale=en" alt="snrahman" />
+<a href="https://twitter.com/noumanrahman">
+<img src="https://img.shields.io/badge/Twitter-noumanrahman-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+</a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=snrahman&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="snrahman" />
+<img src="https://komarev.com/ghpvc/?username=snrahman&label=Profile+Views&color=blue&style=flat"/>
+<img src="https://img.shields.io/badge/MSc-Cyber%20Security-blueviolet?style=flat"/>
+<img src="https://img.shields.io/badge/Experience-4%2B%20Years-brightgreen?style=flat"/>
 </p>
 
+<div align="center" style="width:100%">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" height="300" width="600px"/>
+</div>
+
+---
+
+# 📊 GitHub Statistics
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=snrahman&theme=radical&hide_border=true" alt="snrahman" />
+<img src="https://streak-stats.demolab.com/?user=snrahman&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snrahman&layout=compact&theme=tokyonight"/>
+</p>
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,php,laravel,django,flask,js,html,css,bootstrap,mysql,postgresql,mongodb,aws,docker,vue"/>
+</div>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,linux,vscode,postman,github"/>
 </p>
 
 ---
 
-### 🎓 Education
+# 📚 Table of Contents
 
-| Degree | Institution | Year |
-|--------|-------------|------|
-| 🔐 MSc Cyber Security | Staffordshire University, London, UK | 2024 – 2025 |
-| 💻 BSc Computer Science | University of Sargodha, Pakistan | 2014 – 2018
+- [🎓 Education](#-education)
+- [🏢 Companies / Organizations](#-companies--organizations)
+- [🧑‍💼 Designations / Roles](#-designations--roles)
+- [🛠 Tools, Technologies & Techniques](#-tools-technologies--techniques)
+- [☁️ Cloud & Infrastructure](#-cloud--infrastructure)
+- [📁 Projects](#-projects)
+- [📦 Packages / Integrations](#-packages--integrations)
+- [📫 Contact](#-contact)
+
+---
+
+# [🎓 Education](#-education)
+
+**MSc Cyber Security**
+Staffordshire University, London, UK
+📅 2024 — 2025
+
+---
+
+**BSc Computer Science**
+University of Sargodha, Pakistan
+📅 2014 — 2018
+
+---
+
+# [🏢 Companies / Organizations](#-companies--organizations)
+
+### Azad Chaiwala Institute — Python Instructor
+📅 Jul 2023 — Oct 2024
+
+Key contributions:
+
+- Delivered high-quality Python and web development instruction through structured lessons and hands-on coding sessions
+- Designed quizzes, exams, and project-based assessments covering Django and Flask
+- Provided targeted academic support, helping learners troubleshoot coding issues using Git/GitHub
+- Developed clear tutorials and coding exercises including practical RESTful API development examples
+
+---
+
+### Tossdown Inc. — Software Developer
+📅 Sep 2022 — Jul 2023
+
+Key contributions:
+
+- Developed and maintained streamlined checkout systems using PHP, JavaScript, and MVC-based practices
+- Designed, managed, and integrated internal and third-party RESTful APIs
+- Integrated payment gateways (JazzCash, Clover) and logistics solutions (eShipper, DoorDash)
+- Implemented analytics and reporting tools including Google Analytics with MySQL/PostgreSQL reporting
+
+---
+
+### Einnovention Software Solution — Laravel Developer
+📅 Jan 2020 — Sep 2022
+
+Key contributions:
+
+- Built and augmented CMS, single-page, and e-commerce platforms using PHP, JavaScript (ES6+), and MVC architecture
+- Applied modular development practices for smoother functionality and increased stability
+- Integrated payment providers (Stripe, PayPal) with coupon and promo features
+- Maintained code quality using Git/GitHub and Linux/CLI workflows with CI/CD pipelines
+
+---
+
+# [🧑‍💼 Designations / Roles](#-designations--roles)
+
+- Software Engineer
+- Full Stack Developer
+- Python Developer
+- Laravel / PHP Developer
+- Python Instructor
+
+---
+
+# [🛠 Tools, Technologies & Techniques](#-tools-technologies--techniques)
+
+### Languages
+
+- Python
+- PHP
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+
+### Frameworks & Libraries
+
+- Laravel
+- Django
+- Flask
+- CodeIgniter
+- Vue.js
+
+### Databases
+
+- MySQL
+- PostgreSQL
+- MongoDB
+
+### Tools
+
+- Git / GitHub
+- Docker
+- Postman
+- Linux / CLI
+- CI/CD Pipelines
+
+### Architectural Patterns
+
+- MVC Architecture
+- RESTful API Development
+- Modular Development
+- Object-Oriented Programming
+- Scalable Web Architecture
+
+---
+
+# [☁️ Cloud & Infrastructure](#-cloud--infrastructure)
+
+AWS Services Experience:
+
+- AWS EC2
+- VPS & Shared Hosting Deployment
+
+Also experienced with:
+
+- Docker containerisation
+- Linux/CLI server management
+- CI/CD pipeline configuration
+- Version control & release management
+
+---
+
+# [📁 Projects](#-projects)
+
+## 🤖 Automated Crypto Trading Bot Suite
+
+Engineered a suite of automated cryptocurrency trading systems with both CLI and web-based interfaces.
+
+Key Features:
+
+- Algorithmic trading using **RSI, EMA, and Supertrend** technical indicators
+- Full web-based trading platform built with Laravel and Flask
+- Command-line trading tools for flexible deployment
+- High-performance bot execution on AWS EC2
+
+Technologies Used:
+
+- Python
+- Flask
+- Laravel
+- AWS EC2
+
+---
+
+# [📦 Packages / Integrations](#-packages--integrations)
+
+Experience integrating:
+
+- Payment Gateways (Stripe, PayPal, JazzCash, Clover)
+- Logistics APIs (eShipper, DoorDash)
+- Analytics (Google Analytics)
+- RESTful API development & third-party API integration
+- Version Control & Release Management
+
+---
+
+# [📫 Contact](#-contact)
+
+📧 **Email**
+shahzadanouman@hotmail.com
+
+💼 **LinkedIn**
+https://linkedin.com/in/shahzada-nouman
+
+🐦 **Twitter**
+https://twitter.com/noumanrahman
+
+💻 **HackerRank**
+https://www.hackerrank.com/shahzadanoumanuk
+
+🧩 **LeetCode**
+https://www.leetcode.com/shahzadanouman
